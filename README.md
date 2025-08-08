@@ -29,7 +29,7 @@ currently pursuing the **CFA Level II** designation (November 2025) while buildi
 🔹 **[Portfolio Optimization Tool](#)** — Modern Portfolio Theory model with Efficient Frontier & Sharpe Ratio calculation.  
 🔹 **[Bond Valuation Suite](#)** — YTM, Duration, Convexity, and MBS prepayment analysis.  
 🔹 **[Equity Valuation Models](#)** — DCF, Comparable Company Analysis, and Precedent Transactions.  
-🔹 **[Financial Models](#)** — Asset Pricing, Credit Risk Modeling, Option Pricing and Monte Carlo Simulations.  
+🔹 **[Financial Models](https://github.com/KRupuwu/Financial_Models)(#)** — Asset Pricing, Credit Risk Modeling, Option Pricing and Monte Carlo Simulations.  
 
 ---
 
